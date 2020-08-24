@@ -30,4 +30,4 @@ EOF
 
 echo -n "Next 간단 쉘 스크립트 종료 y/n : "
 read A
-[ ${A} == y ] && ./5.start.sh || ./5/5-4-0.sh
+[ ${A} == y ] && ./5/5.start.sh || ./5/5-4-0.sh
