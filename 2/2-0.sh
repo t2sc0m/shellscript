@@ -19,7 +19,7 @@ cat << EOF
         $(imgcat ./2/2-0.jslinux.png)
 
     - 로컬 리눅스를 설치 또는 클라우드의 리눅스 서비스에서 bash를 사용
-
+      - codeonweb
 
 
 EOF
