@@ -17,7 +17,7 @@ select=$(awk -F% '{print $1}' ./select)
 case ${select} in
 
     0)
-        ./0/0-0.sh;;
+        ./0/0.start.sh;;
 
     1)
 	./1/1.start.sh;;
