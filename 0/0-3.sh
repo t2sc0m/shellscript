@@ -45,4 +45,4 @@ EOF
 
 echo -n "오리엔테이션 종료 : "
 read A
-[ ${A} == y ] && ./main.sh || ./main.sh
+[ ${A} == y ] && ./0/0.start.sh || ./0/0.start.sh

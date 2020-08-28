@@ -12,6 +12,8 @@ dialog --title "\Z5Bash Shell Script!! " \
        7 "기초편을 마치며" off \
        2>./select
 
+touch select
+
 select=$(awk -F% '{print $1}' ./select)
 
 case ${select} in
