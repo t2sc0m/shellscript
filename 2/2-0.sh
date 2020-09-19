@@ -18,9 +18,9 @@ cat << EOF
       - 단점 : ${yellow}느림${reset} (첫 로딩이 느리고 명령어 실행 후 결과가 나오기까지도 느리다)
         $(imgcat ./2/2-0.jslinux.png)
 
-    - 로컬 리눅스를 설치 또는 클라우드의 리눅스 서비스에서 bash를 사용
-      - codeonweb
+    - code on web
 
+    - 로컬 리눅스를 설치 또는 클라우드의 리눅스 서비스에서 bash를 사용
 
 EOF
 
