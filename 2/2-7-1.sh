@@ -19,7 +19,7 @@ cat << EOF
       : 파일의 소유권을 바꾸기 위한 도구
 
     - ${green}sudo (SUperuser DO --> Substitude User DO)${reset}
-      : 다른 사용자의 보안 권한을 이용하여 명령 또는 프로그램을 실행하는 도구
+      : root 사용자의 보안 권한을 이용하여 명령 또는 프로그램을 실행하는 도구
 
     - ${green}who${reset}
       : 현재 시스템에 로그인한 사용자 목록을 출력
