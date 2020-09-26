@@ -14,7 +14,7 @@ cat << EOF
 
     - ls의 활용법
     - watch로 간단 모니터링
-    - cd의 활용법
+
 
 
 EOF
