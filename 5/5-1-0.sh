@@ -12,7 +12,7 @@ cat << EOF
 5. 간단 쉘 스크립트
   - 조건문 
 
-    - ${green}case${reset} 변수 ${green}in${reset} 변수에 넣을 데이터
+    - ${green}case${reset} 변수 ${green}in${reset} 
         ${green}패턴1)${reset}
 	  패턴1이 참일 경우 실행할 명령어;;
 
