@@ -1,11 +1,14 @@
 # Bash ShellScript 기초편 강의자료
 ---
-![tescom](https://en.gravatar.com/userimage/96759029/aa4308f795041de37cc2fedf0d1071ca?size=128)
+## 강의자료 다운로드
+```script
+git clone https://github.com/bashbomb/shellscript.git
+```
 
 ---
 ## 실행방법
 ```script
-cd {GIT_CLONE_DIRECTORY}
+cd shellscript
 ./main.sh
 ```
 ---
